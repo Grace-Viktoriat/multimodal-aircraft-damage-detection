@@ -46,7 +46,7 @@ Libraries: Hugging Face Transformers, NumPy, Matplotlib, PIL
 Quick Start
 1.  Clone the Repository:
     ```bash
-    git clone [https://github.com/ Grace-Viktoriat/multimodal-aircraft-damage-detection.git](https://github.com/ Grace-Viktoriat/multimodal-aircraft-damage-detection.git)
+    git clone [https://github.com/Grace-Viktoriat/multimodal-aircraft-damage-detection.git](https://github.com/ Grace-Viktoriat/multimodal-aircraft-damage-detection.git)
     ```
 2.  Install Dependencies:
     ```bash
