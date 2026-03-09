@@ -1,0 +1,6 @@
+tensorflow==2.17.1
+torch>=2.0.0
+transformers>=4.30.0
+pillow
+matplotlib
+numpy
